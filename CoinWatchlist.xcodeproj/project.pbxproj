@@ -64,6 +64,7 @@
 		97E2E2752969EC2F0084DF62 /* CustomLoadingIndicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLoadingIndicator.swift; sourceTree = "<group>"; };
 		97E2E2772969EE6A0084DF62 /* LazyNavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyNavigationView.swift; sourceTree = "<group>"; };
 		97FB59EC296ACD20001C1F87 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		97FB59EE296ACE66001C1F87 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		979FB88E2967451F0078B08F = {
 			isa = PBXGroup;
 			children = (
+				97FB59EE296ACE66001C1F87 /* README.md */,
 				97FB59EC296ACD20001C1F87 /* .gitignore */,
 				979FB8992967451F0078B08F /* CoinWatchlist */,
 				979FB8982967451F0078B08F /* Products */,
